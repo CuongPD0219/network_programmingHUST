@@ -1,0 +1,4 @@
+admin admin
+hust soict
+guest nopass
+hello world
