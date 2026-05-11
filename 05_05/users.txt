@@ -1,0 +1,4 @@
+admin admin
+hust soict
+user1 user
+user2 user
