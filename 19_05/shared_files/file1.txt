@@ -1,0 +1,7 @@
+Multithreading is a technique where a process is divided into multiple threads that can run concurrently. It is used to perform multiple tasks efficiently within a single program.
+
+A thread is a single sequence of execution within a process.
+Threads are lightweight compared to processes.
+Multiple threads share the same code, data, and OS resources (like files and signals).
+Each thread has its own program counter (PC), register set and stack.
+Commonly used in web servers, games, and real-time systems for handling parallel tasks.

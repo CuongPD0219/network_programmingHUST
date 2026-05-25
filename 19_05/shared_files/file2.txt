@@ -1,0 +1,7 @@
+Multi Thread là một khả năng của một nền tảng (hệ điều hành, máy ảo vv) hoặc các ứng dụng để tạo ra một quá trình bao gồm nhiều Thread được thực thi.
+Một Thread thực hiện là chuỗi nhỏ nhất của hướng dẫn lập trình có thể được quản lý một cách độc lập bởi một lscheduler . 
+Những Thread có thể chạy song song và nó có thể làm tăng hiệu quả của chương trình.
+Trong các hệ thống đa lõi và đa xử lý thì đa luồng tức là các thread được thực hiện cùng lúc trên lõi hoặc bộ vi xử lý khác nhau.
+Đối với hệ thống lõi đơn thì đa luồng chia thời gian giữa các thread. System sẽ gửi 1 số lượng nhất định các hướng dẫn từ mỗi Thread để xử lý. 
+Các Thread không được thực hiện đồng thời. System chỉ mô phỏng thực hiện đồng thời của chúng. Tính năng này của System được gọi là đa luồng.
+Multithreading được sử dụng khi thực hiện song song 1 số nhiệm vụ dẫn đến việc tận dụng hiệu quả hơn các tài nguyên của hệ thống.
