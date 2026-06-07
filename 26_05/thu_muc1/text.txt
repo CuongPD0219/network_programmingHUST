@@ -1,0 +1,7 @@
+Giao thức (Protocol) là tập hợp các quy ước mà client và server cần phải cùng thực hiện để có thể 
+giao tiếp với nhau. Các giao thức này thường hoạt động ở tầng ứng dụng. 
+    HTTP: Giao thức truyền tải siêu văn bản, chuyên dùng cho World Wide Web
+    FTP (File Transfer Protocol): Giao thức trao đổi tệp tin phổ biến. Nó hoạt động 
+bằng cách sử dụng hai luồng riêng biệt: một kênh điều khiển (Control connection) để 
+truyền lệnh và một kênh dữ liệu (Data connection) để truyền tải nội dung file thực sự.
+    POP3: Giao thức dùng để lấy thư điện tử từ máy chủ mail thông qua TCP/IP
